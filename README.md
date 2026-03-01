@@ -25,7 +25,7 @@
 ---
 
 ## 📂 Projetos em destaque
-🔹 Em breve — estou desenvolvendo meus primeiros projetos em Java  
+🔹 Calculadora de Notas em Java 
 🔹 Site de portfólio de pizzaria (front-end)  
 
 ---
