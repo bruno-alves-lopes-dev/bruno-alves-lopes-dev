@@ -59,16 +59,6 @@ Projeto focado em lógica e estrutura de decisão
 👉 **Acesse aqui:**  
 🔗 https://SEU-LINK-VERCEL-AQUI
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <a href="https://github.com/bruno-alves-lopes-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-alves-lopes-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-alves-lopes-dev&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
 
 ---
 
