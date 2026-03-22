@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=bruno-alves-lopes-dev&color=blue" alt="Profile views"/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Java+em+evolução;Construindo+projetos+reais;Foco+em+Backend+e+Web">
 </p>
@@ -84,6 +85,4 @@ Projeto focado em lógica e estrutura de decisão
 
 ---
 💡 *“Transformando experiência prática em soluções tecnológicas reais.”*
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bruno-alves-lopes-dev&color=blue" alt="Profile views"/>
-</p>
+
