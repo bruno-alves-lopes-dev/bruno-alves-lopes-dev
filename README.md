@@ -1,88 +1,119 @@
 <img src="https://komarev.com/ghpvc/?username=bruno-alves-lopes-dev&color=blue" alt="Profile views"/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Java+em+evolução;Construindo+projetos+reais;Foco+em+Backend+e+Web">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Desenvolvedor+Java+em+evolu%C3%A7%C3%A3o;Construindo+solu%C3%A7%C3%B5es+reais+com+tecnologia;Foco+em+Backend%2C+APIs+e+Desenvolvimento+Web" />
 </p>
 
-# 👋 Olá, eu sou Bruno Alves  
+<h1 align="center">👋 Olá, eu sou Bruno Alves</h1>
 
- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor em transição com experiência real em resolução de problemas  
+<p align="center">
+  <strong>Desenvolvedor em transição de carreira</strong> •
+  <strong>Java</strong> •
+  <strong>Backend</strong> •
+  <strong>Desenvolvimento Web</strong>
+</p>
+
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas, com experiência prática em liderança,
+  logística, organização de processos e resolução de problemas.
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um profissional com experiência sólida em **logística, liderança e gestão de processos**, atualmente em transição para a área de tecnologia.  
+Atualmente estou em transição para a área de tecnologia, construindo uma base sólida em desenvolvimento de software com foco em **Java**, **backend** e **aplicações web**.
 
-Tenho perfil analítico, foco em resolução de problemas e estou evoluindo constantemente no desenvolvimento de aplicações **fullstack**, com ênfase em **Java no backend e tecnologias modernas no frontend**.  
+Minha trajetória profissional me trouxe experiência real com **gestão de equipes**, **organização operacional**, **análise de processos** e **tomada de decisão** — habilidades que hoje aplico na construção de soluções tecnológicas mais eficientes, organizadas e orientadas a resultado.
+
+Tenho perfil analítico, disciplina para evoluir constantemente e grande interesse em transformar problemas do dia a dia em soluções práticas através do software.
 
 ---
 
 ## 🧠 Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+<p>
+  <img align="center" alt="Java" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="HTML" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="TypeScript" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Git" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="PostgreSQL" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</p>
 
 ---
 
 ## 📚 Atualmente estudando
 
-- 🔹 Java + Spring Boot  
-- 🔹 APIs REST  
-- 🔹 Banco de dados (PostgreSQL)  
-- 🔹 Integração Front-end e Back-end  
-- 🔹 Boas práticas de desenvolvimento (Clean Code)  
+- Java e Spring Boot
+- APIs REST
+- PostgreSQL
+- Integração entre frontend e backend
+- Clean Code e boas práticas
+- Estruturação de projetos e evolução fullstack
 
 ---
 
 ## 💼 Projetos em destaque
 
-🔹 **Sistema de Portfólio Fullstack**  
-Aplicação com frontend moderno e backend integrado com IA  
+### 🔹 Portfólio Fullstack
+Projeto pessoal com foco em apresentação profissional, responsividade, organização visual e integração entre frontend e backend.
 
-🔹 **API de Usuários (Java + Spring Boot)**  
-CRUD completo com boas práticas de arquitetura  
+### 🔹 API de Usuários com Java + Spring Boot
+CRUD estruturado com separação de camadas, organização de código e foco em boas práticas no desenvolvimento backend.
 
-🔹 **Calculadora de Notas (Java)**  
-Projeto focado em lógica e estrutura de decisão  
+### 🔹 Calculadora de Notas em Java
+Projeto voltado para reforço de lógica de programação, estruturas condicionais e fundamentos da linguagem Java.
 
 ---
 
 ## 🌐 Portfólio Online
 
-👉 **Acesse aqui:**  
-🔗 https://bruno-portfolio-six.vercel.app
+<p>
+  <a href="https://bruno-portfolio-six.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
+🔗 **Link direto:**  
+[https://bruno-portfolio-six.vercel.app](https://bruno-portfolio-six.vercel.app)
 
 ---
 
-## 🔥 Destaques
+## 📊 Estatísticas GitHub
 
-- ✔ Experiência com liderança e gestão de equipes  
-- ✔ Forte capacidade de organização e resolução de problemas  
-- ✔ Evolução constante com projetos práticos  
-- ✔ Facilidade em aprender novas tecnologias  
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-alves-lopes-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-alves-lopes-dev&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Diferenciais
+
+- Experiência prática com liderança e gestão de equipes
+- Forte capacidade de organização e visão de processo
+- Facilidade para aprender e aplicar novas tecnologias
+- Perfil analítico com foco em resolução de problemas
+- Evolução constante por meio de projetos práticos
 
 ---
 
 ## 📫 Contato
 
-<div> 
+<p>
   <a href="https://www.linkedin.com/in/bruno-alves-lopes-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+  </a>
   <a href="mailto:bruno.alves.lopes.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
+</p>
 
 ---
-💡 *“Transformando experiência prática em soluções tecnológicas reais.”*
 
+## 💡 Filosofia
+
+> *Transformando experiência prática em soluções tecnológicas reais.*
