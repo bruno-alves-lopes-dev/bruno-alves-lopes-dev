@@ -1,45 +1,73 @@
 # 👋 Olá, eu sou Bruno Alves  
 
+💻 Desenvolvedor em formação | Foco em Java & Web  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor em formação com foco em **Java e desenvolvimento web**  
-🚀 Buscando minha primeira oportunidade em desenvolvimento  
+🚀 Em busca da minha primeira oportunidade como desenvolvedor  
 
 ---
 
 ## 🧠 Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">  
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">  
 </div>
 
 ---
 
-## 📚 Em aprendizado
-- Lógica de Programação  
-- Programação Orientada a Objetos (POO)  
-- Estruturas de Dados  
-- Java Backend  
+## 📚 Atualmente estudando
+
+- 🔹 Lógica de Programação  
+- 🔹 Programação Orientada a Objetos (POO)  
+- 🔹 Estruturas de Dados  
+- 🔹 Desenvolvimento Backend com Java  
+- 🔹 Integração entre Front-end e Back-end  
 
 ---
 
 ## 📂 Projetos em destaque
-🔹 Calculadora de Notas em Java 
 
-🔹 Site de portfólio
+🔹 **Calculadora de Notas em Java**  
+Sistema simples para cálculo de médias e aprovação de alunos  
+
+🔹 **Portfólio Web**  
+Site desenvolvido com foco em front-end moderno e responsivo  
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div>
+  <a href="https://github.com/bruno-alves-lopes-dev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-alves-lopes-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-alves-lopes-dev&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
 ---
 
 ## 📫 Contato
 
 <div> 
-  <a href="www.linkedin.com/in/bruno-alves-lopes-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:bruno.alves.lopes.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-alves-lopes-dev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="mailto:bruno.alves.lopes.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
 ---
 
-⭐ Sempre aprendendo e evoluindo na área de desenvolvimento
+## 💡 Sobre mim
+
+Profissional com experiência em **logística, liderança e organização de processos**, em transição para a área de tecnologia.  
+Tenho perfil analítico, foco em resolução de problemas e estou constantemente evoluindo minhas habilidades em desenvolvimento.
+
+---
+
+⭐ *Sempre aprendendo, evoluindo e construindo projetos reais*
