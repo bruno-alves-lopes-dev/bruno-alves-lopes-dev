@@ -83,9 +83,6 @@ Projeto focado em lógica e estrutura de decisão
 </div>
 
 ---
-
-## ⚡ Frase que define
-
 💡 *“Transformando experiência prática em soluções tecnológicas reais.”*
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bruno-alves-lopes-dev&color=blue" alt="Profile views"/>
