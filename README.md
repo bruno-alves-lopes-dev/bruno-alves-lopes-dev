@@ -57,7 +57,7 @@ Projeto focado em lógica e estrutura de decisão
 ## 🌐 Portfólio Online
 
 👉 **Acesse aqui:**  
-🔗 https://SEU-LINK-VERCEL-AQUI
+🔗 https://bruno-portfolio-six.vercel.app
 
 
 ---
