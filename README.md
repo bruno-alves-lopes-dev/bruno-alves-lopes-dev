@@ -30,7 +30,7 @@
 ## 📂 Projetos em destaque
 🔹 Calculadora de Notas em Java 
 
-🔹 Site de portfólio de pizzaria (front-end)  
+🔹 Site de portfólio
 
 ---
 
